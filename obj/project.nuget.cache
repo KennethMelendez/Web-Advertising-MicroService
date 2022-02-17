@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ftXwz8ZKyMdED0Qm7nWioV//dYgBCiBWUo75mXvi0E6b6+rQMSqAuRzKc01olqxU/ubr3yF+LVNZnEBoeNwyTw==",
+  "dgSpecHash": "9ADNyGyyz4Rryie0Rtqr2sNBuc2VSqZY5WLj459keE0r8AqCCPn1rmyk9kjzL15/t/X0vyyIt0C3IHC0tiJELQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kmlnd\\source\\repos\\AdvertApi\\AdvertApi.csproj",
+  "projectFilePath": "C:\\Users\\kmlnd\\git\\WebAdvert-Microservice-API\\AdvertApi\\AdvertApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

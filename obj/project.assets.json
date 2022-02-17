@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kmlnd\\source\\repos\\AdvertApi\\AdvertApi.csproj",
+      "projectUniqueName": "C:\\Users\\kmlnd\\git\\WebAdvert-Microservice-API\\AdvertApi\\AdvertApi.csproj",
       "projectName": "AdvertApi",
-      "projectPath": "C:\\Users\\kmlnd\\source\\repos\\AdvertApi\\AdvertApi.csproj",
+      "projectPath": "C:\\Users\\kmlnd\\git\\WebAdvert-Microservice-API\\AdvertApi\\AdvertApi.csproj",
       "packagesPath": "C:\\Users\\kmlnd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kmlnd\\source\\repos\\AdvertApi\\obj\\",
+      "outputPath": "C:\\Users\\kmlnd\\git\\WebAdvert-Microservice-API\\AdvertApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kmlnd\\AppData\\Roaming\\NuGet\\NuGet.Config",
