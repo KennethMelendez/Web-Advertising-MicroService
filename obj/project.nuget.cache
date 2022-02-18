@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "9ADNyGyyz4Rryie0Rtqr2sNBuc2VSqZY5WLj459keE0r8AqCCPn1rmyk9kjzL15/t/X0vyyIt0C3IHC0tiJELQ==",
+  "dgSpecHash": "dj6Un6RiDeOTCb8WElGjeb0bP6rTzw1x3jiUHCT0pdqa6iiJg0H8PW8q1jqd3f1SsaEIVAg1wQDUgAxN53CYrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kmlnd\\git\\WebAdvert-Microservice-API\\AdvertApi\\AdvertApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kmlnd\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\awssdk.core\\3.7.7.1\\awssdk.core.3.7.7.1.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.2.20\\awssdk.dynamodbv2.3.7.2.20.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\kmlnd\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
